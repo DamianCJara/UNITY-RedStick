@@ -1,3 +1,3 @@
 # RedStick
 
-Este juego lo logre hace gracias a Unity Learn y videos de Youtube.
+Este juego lo logre hacer gracias a Unity Learn y videos de Youtube.
